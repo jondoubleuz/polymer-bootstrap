@@ -1,6 +1,5 @@
 {
-  "name": "boot-button"
-},
+  "name": "boot-button",
   "dependencies": {
     "webcomponentsjs": "Polymer/webcomponentsjs#^0.5.0"
 }
