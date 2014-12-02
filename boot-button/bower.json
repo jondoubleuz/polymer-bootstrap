@@ -1,0 +1,7 @@
+{
+  "name": "boot-button"
+},
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.0"
+}
+
